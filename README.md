@@ -28,9 +28,9 @@ exercise 3
 	* output : isosceles
 
 exercise 4
-Write an algorithm to receive input number from user until user input = 9999. 
-The program will output the minimum number inputted 
-Example : 
+* Write an algorithm to receive input number from user until user input = 9999. 
+* The program will output the minimum number inputted 
+* Example : 
 	* 3
 	* 6
 	* 2
