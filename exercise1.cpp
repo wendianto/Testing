@@ -6,8 +6,8 @@ x1,x2,d : real;
 input(a);
 input(b);
 input(c);
-d < b*b - 4ac
-x1 < (-b + sqrt(d)) / 2a
-x2 < (-b - sqrt(d)) / 2a
+d < b*b - 4ac;
+x1 < (-b + sqrt(d)) / 2a;
+x2 < (-b - sqrt(d)) / 2a;
 output (x1);
 output (x2);
