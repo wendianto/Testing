@@ -5,7 +5,7 @@ a , b : integer;
 
 input(a);
 if a = 9999 then
-output (0);
+output (0)
 else
 b <- a
   repeat
